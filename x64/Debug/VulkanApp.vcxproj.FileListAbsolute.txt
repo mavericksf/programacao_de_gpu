@@ -1,0 +1,2 @@
+D:\Estudo\Vulkan\VulkanApp\x64\Debug\VulkanApp.exe
+D:\Google Drive\Projetos\Mestrado\Primeiro_Semestre\Arquitetura e Programação de GPUs\Programacao\programacao_de_gpu\x64\Debug\VulkanApp.exe
